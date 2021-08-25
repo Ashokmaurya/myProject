@@ -57,6 +57,9 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Assets\ChangeBG.cs" />
+    <Compile Include="Assets\Scenes\FollowThePath.cs" />
+    <Compile Include="Assets\Dice.cs" />
+    <Compile Include="Assets\GameControl.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
