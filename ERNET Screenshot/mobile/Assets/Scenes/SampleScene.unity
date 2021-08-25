@@ -766,7 +766,7 @@ MonoBehaviour:
   - {fileID: 1736273555}
   - {fileID: 616404665}
   - {fileID: 1203532156}
-  moveSpeed: 25
+  moveSpeed: 50
   waypointIndex: 0
   moveAllowed: 0
 --- !u!114 &129775682
@@ -4817,7 +4817,7 @@ MonoBehaviour:
   - {fileID: 1736273555}
   - {fileID: 616404665}
   - {fileID: 1203532156}
-  moveSpeed: 25
+  moveSpeed: 50
   waypointIndex: 0
   moveAllowed: 0
 --- !u!114 &1120347824
